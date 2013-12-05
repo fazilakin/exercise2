@@ -10,3 +10,5 @@ _masters_
 Middle East Technical University/[Product Design](id.metu.edu.tr)
 Hochschule Luzern/[Design](hslu.ch)
 
+_hobbies_
+Sketching,Animation,Classical Music
